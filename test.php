@@ -1,5 +1,5 @@
 <?php 
 phpinfo();
 echo 111;
-var_dump(222345678);
+var_dump(1);
 ?>
