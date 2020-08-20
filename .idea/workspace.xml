@@ -48,8 +48,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dabb959-ea7d-4063-965e-473794068f61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/laravel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
     </list>
@@ -189,6 +187,7 @@
       <workItem from="1596190668719" duration="567000" />
       <workItem from="1596191406279" duration="701000" />
       <workItem from="1597891734586" duration="513000" />
+      <workItem from="1597894948695" duration="7000" />
     </task>
     <servers />
   </component>
@@ -205,5 +204,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
