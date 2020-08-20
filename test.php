@@ -1,4 +1,4 @@
 <?php
-echo '测试';
+echo '再次测试';
 die;
 ?>
