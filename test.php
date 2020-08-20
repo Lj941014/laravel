@@ -1,4 +1,4 @@
 <?php
-var_dump(1);
+echo '测试';
 die;
 ?>
